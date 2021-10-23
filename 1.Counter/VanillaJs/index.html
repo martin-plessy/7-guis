@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>7 GUIs Counter Vanilla JS</title>
+	</head>
+	<body>
+		<input id="counterNumber" type="number" readonly value="0">
+		<input id="counterButton" type="button" autofocus value="Count">
+		<script>
+			/** @type {HTMLInputElement} */ const counterButton = document.getElementById("counterButton")
+			/** @type {HTMLInputElement} */ const counterNumber = document.getElementById("counterNumber")
+
+			let counterValue = 0;
+
+			counterButton.addEventListener("click", e => {
+				e.preventDefault()
+				counterNumber.valueAsNumber = ++counterValue
+			}, false)
+		</script>
+	</body>
+</html>
