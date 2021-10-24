@@ -6,7 +6,7 @@ Legend: :red_circle: Not Implemented / :construction: Coming Up Next / :heavy_ch
 | Vue                | TypeScript, Vite         | :heavy_check_mark: | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | React              | TypeScript               | :construction:     | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | Angular            | TypeScript               | :test_tube:        | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
-| Svelte             |                          | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
+| Svelte             | TypeScript               | :test_tube:        | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | Mint               |                          | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | Winforms           | C#, ReactiveUI           | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | WPF                | C#, Prism                | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
