@@ -9,10 +9,10 @@ Legend: :red_circle: Not Implemented / :construction: Coming Up Later / :heavy_c
 | Svelte             | TypeScript               | :test_tube:        | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | Mint               |                          | :construction:     | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | Winforms           | C#, ReactiveUI           | :test_tube:        | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
-| WPF                | C#, Prism                | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
-| UWP                | C#, MVVM Lite            | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
+| WPF                | C#, Prism                | :test_tube:        | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
+| UWP                | C#, MVVM Lite            | :construction:     | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | Avalonia           | F#, FuncUI               | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
-| MAUI               | C#, MVU                  | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
+| MAUI               | C#, MVU                  | :construction:     | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | Win32              | C#, Vanara               | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | GTK#               | C#                       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | Swing              | Java                     | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
