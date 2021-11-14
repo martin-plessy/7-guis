@@ -17,7 +17,7 @@ Legend: :red_circle: Not Implemented / :construction: Coming Up Later / :heavy_c
 | Avalonia           | F#, FuncUI               | :heavy_check_mark: | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | MAUI               | C#, MVU                  | :construction:     | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | Win32              | C#, Vanara               | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
-| GTK#               | C#                       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
+| GTK#               | C#                       | :heavy_check_mark: | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | Swing              | Java                     | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | JavaFX             | Java                     | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
 | TornadoFX          | Kotlin                   | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       | :red_circle:       |
